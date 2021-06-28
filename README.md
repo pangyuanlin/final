@@ -26,6 +26,6 @@
 (4)跳出Alert視窗：我覺得我的網站設計功能多還算直觀，但若使用者不知道怎麼使用，可以按HELP的按鈕，會跳出簡單的網頁使用說明。
 
 
->>>網站連結：https://pangyuanlin.github.io/final.html
+>>>網站連結：https://pangyuanlin.github.io/final
 
 >>>影片連結：https://youtu.be/399WL-PA56o
